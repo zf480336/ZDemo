@@ -1,0 +1,22 @@
+PODS:
+  - Componse_login (0.1.0):
+    - Componse_object
+  - Componse_object (0.1.0)
+
+DEPENDENCIES:
+  - Componse_login (from `Lib/Componse_login`)
+  - Componse_object (from `Lib/Componse_object`)
+
+EXTERNAL SOURCES:
+  Componse_login:
+    :path: Lib/Componse_login
+  Componse_object:
+    :path: Lib/Componse_object
+
+SPEC CHECKSUMS:
+  Componse_login: d3cd13313ad11aa105a35e652550b1dcdaceab79
+  Componse_object: bdb889b8ce32fde83c13d43f6fb865bc6ce355d6
+
+PODFILE CHECKSUM: 3bd420456769934f00836e7ad9db673b982071a5
+
+COCOAPODS: 1.5.3
